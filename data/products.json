@@ -1,0 +1,23 @@
+[
+	{
+		"gtin": "47400656109",
+		"brand": "Gillette",
+		"name": "FUSION5 PROSHIELD RAZOR WITH FLEXBALL TECHNOLOGY",
+		"description": "Gillette Fusion5 ProShield men’s razor, with lubrication before & after the blades, shields from irritation while you shave. It features 5 precision blades for incredible comfort. With Gillette’s thinnest and finest blades (first 4 blades, same as ProGlide), ProShield allows less tug & pull vs. Fusion5. This razor comes complete with a Precision Trimmer on the back, great for edging tough areas such as under the nose and sideburns. Complete with FlexBall technology, ProShield responds to contours & gets virtually every hair. One razor blade refill equals up to one month of shaves. This Fusion5 ProShield razor can be used with any Fusion5 blade refills.",
+		"bvCode": "000080265628"
+	},
+	{
+		"gtin": "47400656123",
+		"brand": "Gillette",
+		"name": "FUSION5 PROSHIELD RAZOR BLADES",
+		"description": "Gillette Fusion5 ProShield men’s razor blades, with lubrication before & after the blades, shields from irritation while you shave. Each refill features 5 precision blades for incredible comfort. With Gillette’s thinnest and finest blades (first 4 blades, same as ProGlide), ProShield allows less tug & pull vs. Fusion5. This razor comes complete with a Precision Trimmer on the back, great for edging tough areas such as under the nose and sideburns. One razor blade refill equals up to one month of shaves. These Fusion ProShield blade refills can be used with any Fusion5 razor handle.",
+		"bvCode": "000080265648"
+	},
+	{
+		"gtin": "47804560231",
+		"brand": "Olay",
+		"name": "OLAY TOTAL EFFECTS 7-IN-1 ANTI-AGING DAILY FACE MOISTURIZER",
+		"description": "Total effects advanced creamy face moisturizer formula fights 7 signs of aging in 1 easy step to help take years off your skin age. Vitamin-rich formula hydrates to nourish, replenishing skin's moisture barrier. 7 benefits in 1: smooths, evens tone, brightens, refines pores, targets age spots, restores firmness, moisturizes. Vitaniacin complex ii, with vitamins c & e, exfoliate to enhance skin’s natural self-renewal process for healthier looking skin, while antioxidants defend against surface free radicals. Oil free: will not clog pores, fast-absorbing, non-greasy formula.",
+		"bvCode": "olay-total-effects"
+	}
+]

@@ -1,0 +1,28 @@
+{
+  "name": "product-master",
+  "version": "1.0.0",
+  "description": "A service that provides product master data from a Content Management System (CMS) or a Product Information Management (PIM) system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jintov/Product-Master.git"
+  },
+  "keywords": [
+    "dam"
+  ],
+  "author": "Jinto Varghese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jintov/Product-Master/issues"
+  },
+  "homepage": "https://github.com/jintov/Product-Master#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jsonpath": "^0.2.11",
+    "swaggerize-ui": "^1.0.1"
+  }
+}
